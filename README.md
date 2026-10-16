@@ -1,14 +1,10 @@
 <p align="center">
-  <img src="./2024.gif" width="100%" alt="Stardew Valley animated banner" />
+  <img src="./stardew-valley-minecraft.gif" width="100%" alt="Stardew Valley animated banner" />
 </p>
 
 <div align="center">
   
 <div align="center">
-
-# 🌻 Hi, welcome to KLIAW Valley!
-
-### 🌱 IT Consultant • Quality Assurance • IT Governance
 
 *Growing ideas, one commit at a time.* 🍓
 
@@ -16,15 +12,29 @@
 
 ---
 
-### 🏡 Welcome to My Little Farm!
+## 🏡 Welcome to My Little Farm! 🏡
 
-🌿 IT professional exploring the world of software quality and technology.
+### 🌿 About Me
 
-🧺 Experienced in Quality Assurance, IT Governance, IT Compliance, and Requirements Analysis.
+IT professional with experience in Quality Assurance, IT Governance, IT Compliance, and Requirements Analysis.
 
-🪴 Currently growing my skills in testing, technical documentation, and IT consulting.
+📍 Jakarta, Indonesia
 
-🌻 Based in Jakarta, Indonesia.
+<p align="center">
+  <img src="./polloneso-stardew-valley.gif"
+       width="400"
+       alt="Stardew Valley pixel art" />
+</p>
+
+### 🧺 What I Do
+
+🌱 Quality Assurance & Software Testing
+🌾 IT Governance & Compliance
+🪵 Requirements Analysis & Technical Documentation
+
+<p align="center">
+  <em>🌻 Always learning, growing, and improving one step at a time.</em>
+</p>
 
 ---
 
@@ -40,17 +50,23 @@
 
 ---
 
-### 🌱 Current Quests
+### 🪾 Current Quests
 
-🍓 Keep learning and improving software quality
+Keep learning and improving software quality
 
-🐸 Explore new tools and testing practices
+Explore new tools and testing practices
 
-🪴 Build useful and reliable technology solutions
+Build useful and reliable technology solutions
 
-🏡 Grow my professional portfolio
+Grow my professional portfolio
 
 ---
+
+<p align="center">
+  <img src="./emily-stardew-valley.gif"
+       width="400"
+       alt="Emily from Stardew Valley" />
+</p>
 
 ### 💌 Let's Be Friends!
 
