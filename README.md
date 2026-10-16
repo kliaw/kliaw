@@ -6,9 +6,9 @@
   
 <div align="center">
 
-*Growing ideas, one commit at a time.* 🍓
+🍓*Growing ideas, one commit at a time.*🍓
 
-[🌐 My Portfolio](https://kliaw.github.io/Layung-Aprilia-Portofolio/) · [💼 LinkedIn](https://www.linkedin.com/in/layung-indra-aprilia/)
+[🌐 My Portfolio](https://kliaw.github.io/Layung-Aprilia-Portofolio/) · [💌 Email](layungiaprilia@gmail.com)
 
 ---
 
@@ -22,7 +22,7 @@ IT professional with experience spanning software quality assurance, IT consulti
 
 <p align="center">
   <img src="./polloneso-stardew-valley.gif"
-       width="100"
+       width="50"
        alt="Stardew Valley pixel art" />
 </p>
 
@@ -64,13 +64,13 @@ Grow my professional portfolio
 
 <p align="center">
   <img src="./emily-stardew-valley.gif"
-       width="100"
+       width="50"
        alt="Emily from Stardew Valley" />
 </p>
 
 ### 💌 Let's Be Friends!
 
-[Email](layungiaprilia@gmail.com)
+[💼 LinkedIn](https://www.linkedin.com/in/layung-indra-aprilia/)
 
 *Thanks for visiting my little corner of GitHub!* 💚
 
