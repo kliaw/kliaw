@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./stardew-valley-minecraft.gif" width="100%" alt="Stardew Valley animated banner" />
+  <img src="./stardew-valley-minecraft.gif" width="50%" alt="Stardew Valley animated banner" />
 </p>
 
 <div align="center">
@@ -22,7 +22,7 @@ IT professional with experience spanning software quality assurance, IT consulti
 
 <p align="center">
   <img src="./polloneso-stardew-valley.gif"
-       width="400"
+       width="100"
        alt="Stardew Valley pixel art" />
 </p>
 
@@ -64,7 +64,7 @@ Grow my professional portfolio
 
 <p align="center">
   <img src="./emily-stardew-valley.gif"
-       width="400"
+       width="100"
        alt="Emily from Stardew Valley" />
 </p>
 
