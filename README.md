@@ -6,7 +6,7 @@
   
 <div align="center">
 
-🍓*Growing ideas, one commit at a time.*🍓
+🍓 *Growing ideas, one commit at a time.* 🍓
 
 [🌐 My Portfolio](https://kliaw.github.io/Layung-Aprilia-Portofolio/) · [💌 Email](layungiaprilia@gmail.com)
 
