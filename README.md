@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="./2024.gif" width="100%" alt="Stardew Valley animated banner" />
+</p>
 
+<div align="center">
+  
 <div align="center">
 
 # 🌻 Hi, welcome to KLIAW Valley!
