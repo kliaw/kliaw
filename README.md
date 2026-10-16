@@ -14,9 +14,9 @@
 
 ## 🏡 Welcome to My Little Farm! 🏡
 
-### 🌿 About Me
+### 🌿 About Me 🌿
 
-IT professional with experience in Quality Assurance, IT Governance, IT Compliance, and Requirements Analysis.
+IT professional with experience spanning software quality assurance, IT consulting, IT governance and maturity assessment, risk and compliance documentation, and enterprise architecture. Skilled in reviewing business and technical requirements, preparing and executing test scenarios, documenting defects, and supporting governance improvements aligned with frameworks and standards including COBIT 5/2019, ISO/IEC 27001, ISO 22301, and ISO 20000.
 
 📍 Jakarta, Indonesia
 
@@ -26,31 +26,31 @@ IT professional with experience in Quality Assurance, IT Governance, IT Complian
        alt="Stardew Valley pixel art" />
 </p>
 
-### 🧺 What I Do
+### 🧺 What I Do 🧺
 
 🌱 Quality Assurance & Software Testing
 🌾 IT Governance & Compliance
 🪵 Requirements Analysis & Technical Documentation
 
 <p align="center">
-  <em>🌻 Always learning, growing, and improving one step at a time.</em>
+  <em>🌻 Always learning, growing, and improving one step at a time. 🌻</em>
 </p>
 
 ---
 
-### 🎒 My Inventory
+### 🎒 My Inventory 🎒
 
 | Category | Tools & Skills |
 |---|---|
-| 🧪 Quality Assurance | Functional Testing, Regression Testing, UAT |
-| ⚒️ Testing Tools | Katalon Studio, Postman, JMeter, Jira |
-| 📜 IT Governance | IT Compliance, IT Maturity Assessment |
+| 🧪 Quality Assurance | Functional Testing, Regression Testing, SIT |
+| ⚒️ Testing Tools | Jira, Jam |
+| 📜 IT Consulting | IT Governance, IT Compliance, IT Maturity Assessment, IT Master Plan, IT Assessment, Enterprise Architecture |
 | 🪵 Documentation | Requirements Analysis, Technical Documentation |
-| 💻 Other Tools | SQL, Git, GitHub |
+| 💻 Other Tools | Microsoft Office, GitHub |
 
 ---
 
-### 🪾 Current Quests
+### 🪾 Current Quests 🪾
 
 Keep learning and improving software quality
 
